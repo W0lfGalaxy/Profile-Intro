@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @W0lfGalaxy
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I’m @W0lfGalaxy
+👀 I’m interested in technology, programming, and gaming.
+🌱 I’m currently learning new programming languages and improving my skills in web development.
+💞️ I’m looking to collaborate on open-source projects related to web development or game development.
+📫 How to reach me: You can send me a message on GitHub
 
 <!---
 W0lfGalaxy/W0lfGalaxy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
