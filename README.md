@@ -3,7 +3,7 @@
 - 👀 I'm interested in technology, programming, and gaming. I mean, who isn't? 🤓🎮💻
 - 🌱 Currently learning new programming languages and improving my skills in web development. I'm like a hungry wolf, always looking for new skills to devour! 🐺🍽️
 - 💞️ Looking to collaborate on open-source projects related to web development or game development. Let's join forces and howl at the moon together! 🌕🐺
-- 📫 How to contact me: You can send me a message on GitHub or email me at [insert your email address here]. Just don't send me any silver bullets, okay? 🙅‍♂️🔫
+- 📫 How to contact me: You can send me a message on GitHub. Just don't send me any silver bullets, okay? 🙅‍♂️🔫
 
 Welcome to my GitHub den! 🐺 I'm a passionate developer who loves creating innovative and efficient solutions for complex challenges. My primary focus is on IT-related projects, including software development, web programming, and mobile applications.
 
